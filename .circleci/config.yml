@@ -1,2 +1,8 @@
-print("hello")
+def possible (row, column, number):
+  
+  #is the number appearing the row?
+    #is the number appearing in the column? 
+    #is the number appearing in the square?
+
+    
 
