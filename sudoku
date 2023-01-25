@@ -76,11 +76,11 @@ def find_empty(bo):
 
 
 def solve(bo):
-  """
+    """
   This function uses recursions and backtracking to fill in accurate values into the sudoku board. 
   :param bo: 2d list
   :return: the sudoku board with all values filled out without any repition of numbers in the same column or row or square. 
-  """
+    """
     find = find_empty(bo)
     if find:
         row, col = find
