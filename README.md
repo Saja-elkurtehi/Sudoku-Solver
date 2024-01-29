@@ -1,3 +1,3 @@
-# sudoku-game
-This is an automated Sodukp solver that will find the solution to any solvable Soduko puzzle through a simple backtracking algorithm. 
+# sudoku-solver
+This is an automated Sudoku solver that will find the solution to any solvable Sudoku puzzle through a simple backtracking algorithm. 
 
